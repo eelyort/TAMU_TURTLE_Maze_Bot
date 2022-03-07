@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\build\examples_rclcpp_minimal_timer\CMakeFiles\e746e684795f00c2cfa012b652ce0d43\examples_rclcpp_minimal_timer_uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\timers\minimal_timer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\build\examples_rclcpp_minimal_timer\CMakeFiles\examples_rclcpp_minimal_timer_uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C0279BEF-28AC-30C9-AB3D-7DF8B806800F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\build\examples_rclcpp_minimal_subscriber\CMakeFiles\6f8e217a27eaa4e7293fe32d2c947462\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2F6B74D0-E92F-3095-8893-EF340D287CE2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

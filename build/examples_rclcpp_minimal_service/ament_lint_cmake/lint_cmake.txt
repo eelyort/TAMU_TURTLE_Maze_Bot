@@ -1,0 +1,9 @@
+-- run_test.py: invoking following command in 'D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\services\minimal_service':
+ - D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-windows/Scripts/ament_lint_cmake.exe --xunit-file D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/test_results/examples_rclcpp_minimal_service/lint_cmake.xunit.xml
+
+
+No problems found
+
+
+-- run_test.py: return code 0
+-- run_test.py: verify result file 'D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/test_results/examples_rclcpp_minimal_service/lint_cmake.xunit.xml'

@@ -1,0 +1,28 @@
+-- run_test.py: invoking following command in 'D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor':
+ - D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-windows/Scripts/ament_cpplint.exe --xunit-file D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_cbg_executor/test_results/examples_rclcpp_cbg_executor/cpplint.xunit.xml
+
+Using '--root=D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\include' argument
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\include\examples_rclcpp_cbg_executor\ping_node.hpp
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\include\examples_rclcpp_cbg_executor\pong_node.hpp
+
+Using '--root=D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src' argument
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\ping.cpp
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\ping_pong.cpp
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\pong.cpp
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\examples_rclcpp_cbg_executor\ping_node.cpp
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\examples_rclcpp_cbg_executor\pong_node.cpp
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\examples_rclcpp_cbg_executor\utilities.hpp
+
+No problems found
+
+
+-- run_test.py: return code 0
+-- run_test.py: verify result file 'D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_cbg_executor/test_results/examples_rclcpp_cbg_executor/cpplint.xunit.xml'

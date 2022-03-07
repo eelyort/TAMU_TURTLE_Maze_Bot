@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/MinSizeRel/service_main.exe" "TARGETS" "service_main" "DESTINATION" "lib/examples_rclcpp_minimal_service")

@@ -1,0 +1,18 @@
+-- run_test.py: invoking following command in 'D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\topics\minimal_publisher':
+ - D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-windows/Scripts/ament_cpplint.exe --xunit-file D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_publisher/test_results/examples_rclcpp_minimal_publisher/cpplint.xunit.xml
+
+Using '--root=D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src' argument
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\topics\minimal_publisher\lambda.cpp
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\topics\minimal_publisher\member_function.cpp
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\topics\minimal_publisher\member_function_with_unique_network_flow_endpoints.cpp
+
+Done processing D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\topics\minimal_publisher\not_composable.cpp
+
+No problems found
+
+
+-- run_test.py: return code 0
+-- run_test.py: verify result file 'D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_publisher/test_results/examples_rclcpp_minimal_publisher/cpplint.xunit.xml'

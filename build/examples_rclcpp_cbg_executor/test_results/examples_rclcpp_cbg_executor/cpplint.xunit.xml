@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite
+  name="examples_rclcpp_cbg_executor.cpplint"
+  tests="8"
+  failures="0"
+  errors="0"
+  time="2.049"
+>
+  <testcase
+    name="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\include\examples_rclcpp_cbg_executor\ping_node.hpp"
+    classname="examples_rclcpp_cbg_executor.cpplint"/>
+  <testcase
+    name="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\include\examples_rclcpp_cbg_executor\pong_node.hpp"
+    classname="examples_rclcpp_cbg_executor.cpplint"/>
+  <testcase
+    name="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\ping.cpp"
+    classname="examples_rclcpp_cbg_executor.cpplint"/>
+  <testcase
+    name="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\ping_pong.cpp"
+    classname="examples_rclcpp_cbg_executor.cpplint"/>
+  <testcase
+    name="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\pong.cpp"
+    classname="examples_rclcpp_cbg_executor.cpplint"/>
+  <testcase
+    name="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\examples_rclcpp_cbg_executor\ping_node.cpp"
+    classname="examples_rclcpp_cbg_executor.cpplint"/>
+  <testcase
+    name="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\examples_rclcpp_cbg_executor\pong_node.cpp"
+    classname="examples_rclcpp_cbg_executor.cpplint"/>
+  <testcase
+    name="D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\examples_rclcpp_cbg_executor\utilities.hpp"
+    classname="examples_rclcpp_cbg_executor.cpplint"/>
+  <system-out>Checked files:
+* D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\include\examples_rclcpp_cbg_executor\ping_node.hpp
+* D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\include\examples_rclcpp_cbg_executor\pong_node.hpp
+* D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\ping.cpp
+* D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\ping_pong.cpp
+* D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\pong.cpp
+* D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\examples_rclcpp_cbg_executor\ping_node.cpp
+* D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\examples_rclcpp_cbg_executor\pong_node.cpp
+* D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\src\examples\rclcpp\executors\cbg_executor\src\examples_rclcpp_cbg_executor\utilities.hpp</system-out>
+</testsuite>
