@@ -1,8 +1,0 @@
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_action_server/CMakeFiles/uninstall.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_action_server/CMakeFiles/examples_rclcpp_minimal_action_server_uninstall.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_action_server/CMakeFiles/action_server_member_functions.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_action_server/CMakeFiles/action_server_not_composable.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_action_server/CMakeFiles/RUN_TESTS.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_action_server/CMakeFiles/INSTALL.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_action_server/CMakeFiles/ALL_BUILD.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_action_server/CMakeFiles/ZERO_CHECK.dir
