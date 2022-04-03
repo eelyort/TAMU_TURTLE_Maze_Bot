@@ -1,7 +1,0 @@
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/CMakeFiles/uninstall.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/CMakeFiles/examples_rclcpp_minimal_service_uninstall.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/CMakeFiles/service_main.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/CMakeFiles/RUN_TESTS.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/CMakeFiles/INSTALL.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/CMakeFiles/ALL_BUILD.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_service/CMakeFiles/ZERO_CHECK.dir
