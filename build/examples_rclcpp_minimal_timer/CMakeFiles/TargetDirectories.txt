@@ -1,8 +1,0 @@
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_timer/CMakeFiles/uninstall.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_timer/CMakeFiles/examples_rclcpp_minimal_timer_uninstall.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_timer/CMakeFiles/timer_lambda.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_timer/CMakeFiles/timer_member_function.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_timer/CMakeFiles/RUN_TESTS.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_timer/CMakeFiles/INSTALL.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_timer/CMakeFiles/ALL_BUILD.dir
-D:/Troy/Extra Curriculars/Turtle/MazeBot/dev/ros2-mazebot-project/build/examples_rclcpp_minimal_timer/CMakeFiles/ZERO_CHECK.dir
