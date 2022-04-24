@@ -6,9 +6,8 @@
 :: packages contained in this prefix path.
 
 :: source chained prefixes
-call:_colcon_prefix_chain_bat_call_script "D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-windows\local_setup.bat"
-call:_colcon_prefix_chain_bat_call_script "D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-windows\\local_setup.bat"
-call:_colcon_prefix_chain_bat_call_script "D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-mazebot-project\install\\local_setup.bat"
+call:_colcon_prefix_chain_bat_call_script "D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-foxy-20220208-windows-debug-amd64\ros2-windows\local_setup.bat"
+call:_colcon_prefix_chain_bat_call_script "D:\Troy\Extra Curriculars\Turtle\MazeBot\dev\ros2-foxy-20220208-windows-debug-amd64\ros2-windows\\local_setup.bat"
 
 :: source this prefix
 call:_colcon_prefix_chain_bat_call_script "%%~dp0local_setup.bat"
